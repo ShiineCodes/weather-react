@@ -11,7 +11,7 @@ export function Footer() {
       </a>
       and
 
-      <a href="" target="_blank"
+      <a href="https://weatherreactvs.netlify.app/" target="_blank"
       >hosted on Netlify
       </a>
   </footer>
